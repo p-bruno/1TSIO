@@ -11,10 +11,11 @@
 
 
 # Seance 2 - Decouverte du CLI
+<a href="https://docs.google.com/presentation/d/1oAdSrcKFjfodBydRd-yUiTR30mi5Yl0cNEd8sXHUm_E/edit?usp=sharing&resourcekey=0-F4pVMmsIj5lpdK7AEk5-_Q">Slides</a>
 
-<a href="">Cours</a>
+<a href="https://docs.google.com/document/d/1crRZkHm6rKn7FhOrN7Mg2_hHZXO7-P1hCvHzpjhDx3M/edit?usp=sharing">Cours</a>
 
-<a href="https://p-bruno.github.io/1TSD-TP-compte-rendu/#0">TP</a>
+<a href="https://p-bruno.github.io/1TSIO-TP-decouverte-du-CLI/#0">TP</a>
 
 
 

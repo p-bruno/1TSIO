@@ -3,7 +3,7 @@
 <table cellspacing="0" cellpadding="0" style="border-collapse:collapse; margin:auto;">
 <tr>
     <td colspan=6 style="text-align: center;">
-      <a title="Découverte du réseau" href="./decouverte-du-reseau"><img src='./assets/decouverte-du-reseau-icon.svg' width="128px"/><br/>Découverte du réseau</a>
+      <a title="Découverte du réseau" href="./Introduction%20au%20reseau"><img src='./assets/decouverte-du-reseau-icon.svg' width="128px"/><br/>Découverte du réseau</a>
     </td>
 </tr>
 </table>

@@ -5,10 +5,9 @@
 
 <a href="https://docs.google.com/document/d/1JPujx03ay1mIJMN5eThgsgIu7-_OioqH5o5L4pLZG1g/edit?usp=sharing">Cours</a>
 
+<a href="https://p-bruno.github.io/1TSIO-codelab-intro-reseau/#0">TP</a>
+
 <a href="https://drive.google.com/file/d/1RPGdYCvQeCVjNkBXjnkjqOL9pHRqY5cB/view?usp=sharing">Fichier Packet Tracer du TP</a>
-
-<a href="https://drive.google.com/file/d/1RaHOkoTDdmUTbY7DCnAYB9sc9Kn-yMTy/view?usp=sharing">Vidéo du TP</a>
-
 
 # Seance 2 - Decouverte du CLI
 <a href="https://docs.google.com/presentation/d/1oAdSrcKFjfodBydRd-yUiTR30mi5Yl0cNEd8sXHUm_E/edit?usp=sharing&resourcekey=0-F4pVMmsIj5lpdK7AEk5-_Q">Slides</a>

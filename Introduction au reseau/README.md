@@ -1,5 +1,7 @@
 <!-- <a href="">libelé</a> -->
 
+<a href="https://docs.google.com/presentation/d/1mhtOdDisHOJOHbLrs_l4mvSOwo-uDayr8uTO9xn2ZTU/edit?usp=sharing&resourcekey=0-jbTHrac0Hq6ty-piHUyEEQ">Consignes DS de leçon</a>
+
 # Seance 1 - Les elements dun reseau
 <a href="https://docs.google.com/presentation/d/17Q6UNqiC4ZwiqS3JQdIj5Z0eQiKz1NWJqzLQwTJR2Kw/edit?usp=sharing">Slides</a>
 

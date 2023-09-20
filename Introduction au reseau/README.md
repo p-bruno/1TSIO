@@ -16,7 +16,7 @@
 
 <a href="https://docs.google.com/document/d/1crRZkHm6rKn7FhOrN7Mg2_hHZXO7-P1hCvHzpjhDx3M/edit?usp=sharing">Cours</a>
 
-<a href="https://p-bruno.github.io/1TSIO-TP-decouverte-du-CLI/#0">TP</a>
+<a href="https://drive.google.com/drive/folders/18dxV_Z7jWqDnrWAclr-dBxty1b-q3xhR?usp=sharing">TP</a>
 
 
 

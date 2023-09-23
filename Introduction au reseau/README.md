@@ -9,8 +9,6 @@
 
 <a href="https://p-bruno.github.io/1TSIO-codelab-intro-reseau/#0">TP</a>
 
-<a href="https://drive.google.com/file/d/1RPGdYCvQeCVjNkBXjnkjqOL9pHRqY5cB/view?usp=sharing">Fichier Packet Tracer du TP</a>
-
 # Seance 2 - Decouverte du CLI
 <a href="https://docs.google.com/presentation/d/1oAdSrcKFjfodBydRd-yUiTR30mi5Yl0cNEd8sXHUm_E/edit?usp=sharing&resourcekey=0-F4pVMmsIj5lpdK7AEk5-_Q">Slides</a>
 

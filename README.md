@@ -6,7 +6,7 @@
       <a title="Découverte du réseau" href="./Introduction%20au%20reseau"><img src='./assets/decouverte-du-reseau-icon.svg' width="128px"/><br/>Introduction au réseau</a>
     </td>
     <td colspan=6 style="text-align: center;">
-      <a title="Communication" href="./Communication"><img src='./assets/communicaton.svg' width="128px"/><br/>Communication</a>
+      <a title="Communication" href="./Communication"><img src='./assets/communication.svg' width="128px"/><br/>Communication</a>
     </td>
 </tr>
 </table>
